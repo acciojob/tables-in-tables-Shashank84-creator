@@ -1,8 +1,8 @@
 /* table, th, td {
     border: 1px solid black;
-    border-collapse: collapse;
+   * border-collapse: collapse;
     padding: 8px;
-  }
+   } 
   th {
     background-color: lightgray;
   }
@@ -10,4 +10,4 @@
     background-color: black;
     color: white;
   }
-/* Your CSS Code here. */ */
+/* Your CSS Code here. */ */ */
