@@ -1,13 +1,16 @@
-/* table, th, td {
-    border: 1px solid black;
-   * border-collapse: collapse;
-    padding: 8px;
-   } 
-  th {
-    background-color: lightgray;
-  }
-  .black-cell {
-    background-color: black;
-    color: white;
-  }
-/* Your CSS Code here. */ */ */
+table,th,tr,td{
+border:1px solid black;
+}
+.Data1{
+width:250px;
+height:200px;
+}
+.Row1{
+text-align:center;
+}
+.tab1{
+width:250px;
+}
+.Data2{
+height:100px
+}
